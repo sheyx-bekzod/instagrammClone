@@ -1,0 +1,6 @@
+/.idea
+/flask_project
+/migrations
+__pycache__/
+git branch -M main
+git push -u origin main
